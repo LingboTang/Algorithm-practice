@@ -1,0 +1,2 @@
+cd Desktop/BoMond
+python client.py -t BoMond -p Tlbo1994Sci -m 7067b41b-c311-4a8f-b205-d19704599a0c -n ip-10-0-0-149.ec2.internal
